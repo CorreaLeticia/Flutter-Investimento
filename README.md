@@ -28,10 +28,11 @@ git clone https://github.com/CorreaLeticia/Flutter-Investimento.git
 flutter pub get
 flutter run
 
-
 ##Prints do App
+
 Tela inicial
 ![Tela inicial](assets/calculadora.png)
+
 
 Resultado
 ![Resultado](assets/resultado.png)
